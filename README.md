@@ -87,6 +87,7 @@ $ cd 'Auto-GPT'
 *(Again, type this into your CMD window)*
 ```
 pip install -r requirements.txt
+pip install playsound==1.2.2
 ```
 
 4. Rename `.env.template` to `.env` and fill in your `OPENAI_API_KEY`. If you plan to use Speech Mode, fill in your `ELEVEN_LABS_API_KEY` as well.
